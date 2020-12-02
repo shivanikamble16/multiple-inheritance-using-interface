@@ -1,0 +1,1 @@
+# multiple-inheritance-using-interface
